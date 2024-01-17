@@ -1,0 +1,28 @@
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    width: 25%;
+    margin: auto;
+    margin-top: 10%;
+  }
+  
+  .form-inputs{
+    width: 350px;
+    height: 40px;
+    margin: 2% 0;
+    font-size: larger;
+    padding-left: 2%;
+  }
+  
+  #reg-btn{
+    background-color: green;
+    font-size: larger;
+    width: 350px;
+    padding: 2%;
+    margin-bottom: 2%;
+  }
+
+  
